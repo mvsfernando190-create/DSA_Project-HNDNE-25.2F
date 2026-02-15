@@ -8,17 +8,17 @@
 **Course:** Higher National Diploma in Network Engineering  
 **Module:** Data Structures and Algorithms  
 **Batch:** 25.2F  
-**Group No** 3
+**Group No:** 3
 
 **Team Members:**
 
 - Name: FERNANDO M V S 
 - Index_NO: COHNDNE252F-001
-----------------------------------------------------------------------------------
+
 - Name: METHNULI J K P D D 
-- Index_No: COHNDNE252F-003
+- Index NO: COHNDNE252F-003
 
-
+----------------------------------------------------------------------------------
 ## Project Overview
 
 The proposed project simply presents how a manual based system will be transformed into an automated system in order to manage the temporary network access using the data structure of Min Heap. The supposed strategic solution ensures that the external users receive a temporary access within an expiration time frame under role based policy and will be monitored while active session is live. Hence, it will guarantee that the network infrastructure stay secured, controlled and undisturbed.

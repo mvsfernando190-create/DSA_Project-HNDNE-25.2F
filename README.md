@@ -1,5 +1,5 @@
 # DSA_Project-HNDNE-25.2F
-Temporary Extranet Network Access Management using Min Heap Data Structure
+| Temporary Extranet Network Access Management using Min Heap Data Structure
 
 ## Academic Information
 
@@ -14,7 +14,7 @@ Temporary Extranet Network Access Management using Min Heap Data Structure
 
 - Name: FERNANDO M V S 
 - Index_NO: COHNDNE252F-001
-
+----------------------------------------------------------------------------------
 - Name: METHNULI J K P D D 
 - Index_No: COHNDNE252F-003
 
